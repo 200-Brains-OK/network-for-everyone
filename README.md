@@ -1,5 +1,5 @@
 # 📕 모두의 네트워크 스터디
-[모두의 네트워크 기초](https://product.kyobobook.co.kr/detail/S000212174672) 책으로 진행
+[모두의 네트워크](https://product.kyobobook.co.kr/detail/S000001792670) 책으로 진행
 
 ## 🗓️ 기간
 - 2025.02.03 ~ 2025.02.11 (9일)
